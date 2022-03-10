@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "facec.Exercicos.Lista.2/1.0.0": {
+        "runtime": {
+          "facec.Exercicos.Lista.2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "facec.Exercicos.Lista.2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

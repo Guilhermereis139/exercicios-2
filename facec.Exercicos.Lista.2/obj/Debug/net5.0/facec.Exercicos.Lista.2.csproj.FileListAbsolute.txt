@@ -1,0 +1,16 @@
+C:\Users\facec.lab04\source\repos\facec.Exercicos.Lista.2\facec.Exercicos.Lista.2\bin\Debug\net5.0\facec.Exercicos.Lista.2.exe
+C:\Users\facec.lab04\source\repos\facec.Exercicos.Lista.2\facec.Exercicos.Lista.2\bin\Debug\net5.0\facec.Exercicos.Lista.2.deps.json
+C:\Users\facec.lab04\source\repos\facec.Exercicos.Lista.2\facec.Exercicos.Lista.2\bin\Debug\net5.0\facec.Exercicos.Lista.2.runtimeconfig.json
+C:\Users\facec.lab04\source\repos\facec.Exercicos.Lista.2\facec.Exercicos.Lista.2\bin\Debug\net5.0\facec.Exercicos.Lista.2.runtimeconfig.dev.json
+C:\Users\facec.lab04\source\repos\facec.Exercicos.Lista.2\facec.Exercicos.Lista.2\bin\Debug\net5.0\facec.Exercicos.Lista.2.dll
+C:\Users\facec.lab04\source\repos\facec.Exercicos.Lista.2\facec.Exercicos.Lista.2\bin\Debug\net5.0\ref\facec.Exercicos.Lista.2.dll
+C:\Users\facec.lab04\source\repos\facec.Exercicos.Lista.2\facec.Exercicos.Lista.2\bin\Debug\net5.0\facec.Exercicos.Lista.2.pdb
+C:\Users\facec.lab04\source\repos\facec.Exercicos.Lista.2\facec.Exercicos.Lista.2\obj\Debug\net5.0\facec.Exercicos.Lista.2.csproj.AssemblyReference.cache
+C:\Users\facec.lab04\source\repos\facec.Exercicos.Lista.2\facec.Exercicos.Lista.2\obj\Debug\net5.0\facec.Exercicos.Lista.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facec.lab04\source\repos\facec.Exercicos.Lista.2\facec.Exercicos.Lista.2\obj\Debug\net5.0\facec.Exercicos.Lista.2.AssemblyInfoInputs.cache
+C:\Users\facec.lab04\source\repos\facec.Exercicos.Lista.2\facec.Exercicos.Lista.2\obj\Debug\net5.0\facec.Exercicos.Lista.2.AssemblyInfo.cs
+C:\Users\facec.lab04\source\repos\facec.Exercicos.Lista.2\facec.Exercicos.Lista.2\obj\Debug\net5.0\facec.Exercicos.Lista.2.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab04\source\repos\facec.Exercicos.Lista.2\facec.Exercicos.Lista.2\obj\Debug\net5.0\facec.Exercicos.Lista.2.dll
+C:\Users\facec.lab04\source\repos\facec.Exercicos.Lista.2\facec.Exercicos.Lista.2\obj\Debug\net5.0\ref\facec.Exercicos.Lista.2.dll
+C:\Users\facec.lab04\source\repos\facec.Exercicos.Lista.2\facec.Exercicos.Lista.2\obj\Debug\net5.0\facec.Exercicos.Lista.2.pdb
+C:\Users\facec.lab04\source\repos\facec.Exercicos.Lista.2\facec.Exercicos.Lista.2\obj\Debug\net5.0\facec.Exercicos.Lista.2.genruntimeconfig.cache
